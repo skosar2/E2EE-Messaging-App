@@ -1,1 +1,1 @@
- #End-to-End Encrypted Messaging Service using the Signal Protocol
+#End-to-End Encrypted Messaging Service using the Signal Protocol
